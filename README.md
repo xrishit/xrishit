@@ -1,16 +1,26 @@
-## Hi there 👋
+# rishit-srivastava | Developer & Technical Lead
 
-<!--
-**xrishit/xrishit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS @ Galgotias University (2027)** | **Founder @ Rawr Media**
+Focused on high-performance backend systems, automation, and real-time data handling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+* **Languages:** Python (FastAPI, WebSockets), Java (OOP), SQL
+* **Tools:** Git, Docker, REST APIs, JSON/XML, VS Code
+
+### 🚀 Key Projects
+* **RIPEL (Fog Radar):** Real-time V2V collision avoidance system using **FastAPI** and **WebSockets**. Designed to minimize latency in safety-critical driving conditions.
+* **Chess Game:** Full-scale Java implementation leveraging advanced **Object-Oriented Programming** principles.
+* **Rawr Media Infra:** Built the technical backbone for a Lucknow-based media agency, managing global delivery workflows.
+
+### 💼 Experience
+* **NIIT Limited:** Technical Intern | Learning Science Technology (Aug 2025)
+* **Rawr Media:** Founder & Technical Lead
+* **Petals NGO:** Former Co-Founder & Technical Head
+
+---
+
+### 📊 System Metrics
+![Stats](https://github-readme-stats.vercel.app/api?username=rishit-srivastava&show_icons=true&theme=dracula&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishit-srivastava&layout=compact&theme=dracula&hide_border=true)
