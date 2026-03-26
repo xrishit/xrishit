@@ -1,7 +1,7 @@
 # Rishit Srivastava | Developer & Technical Lead
 
 **Btech CS @ Galgotias University (2027)** | **Founder @ Rawr Media**
-Focused on high-performance backend systems, automation, and real-time data handling.
+\n Focused on high-performance backend systems, automation, and real-time data handling.
 
 ---
 
