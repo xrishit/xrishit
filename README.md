@@ -1,6 +1,6 @@
-# rishit-srivastava | Developer & Technical Lead
+# Rishit Srivastava | Developer & Technical Lead
 
-**CS @ Galgotias University (2027)** | **Founder @ Rawr Media**
+**Btech CS @ Galgotias University (2027)** | **Founder @ Rawr Media**
 Focused on high-performance backend systems, automation, and real-time data handling.
 
 ---
@@ -22,5 +22,5 @@ Focused on high-performance backend systems, automation, and real-time data hand
 ---
 
 ### 📊 System Metrics
-![Stats](https://github-readme-stats.vercel.app/api?username=rishit-srivastava&show_icons=true&theme=dracula&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishit-srivastava&layout=compact&theme=dracula&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=xrishit&show_icons=true&theme=dracula&hide_border=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrishit&layout=compact&theme=dracula&hide_border=true)
